@@ -1,0 +1,12 @@
+.game-card { /* карточная игра */
+    height: 100vh; /* высота: 100вх; от верха страницы*/
+    font-family: 'Open Sans', monospace; /* семейство шрифтов: 'Open Sans', моноширинный */ 
+}
+
+
+
+
+.btn-group {
+    display: inline; /* дисплей: встроенный; */
+    padding: 30px; /* отступ: 30 пикселей; */
+}
